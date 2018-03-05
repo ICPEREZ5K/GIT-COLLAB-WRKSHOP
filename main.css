@@ -1,5 +1,6 @@
 
 
+
 #Content1 {
 	background-color: #658C3D;
 	text-align: center;
@@ -21,11 +22,52 @@ article {
 	background-color: white;
 }
 
-p {
-	color: black;
-
-}
 
 h1 {
 	color: white;
 }
+=======
+html{
+    margin: 0;
+    padding: 0px;
+}
+
+nav {
+    margin: 0%;
+    display: block;
+    width: 100%;
+    padding: 0px;
+    background-color: aqua;
+}
+
+li {
+    margin: 0, auto;
+    display: inline-block;
+    list-style-type: none;
+    padding: 2%;
+}
+
+div {
+    width: 100%;
+}
+
+img {
+    position: relative;
+    display: inline-block;
+    width: 300px;
+}
+
+p {
+    display: inline-block;
+    width: 50%;
+}
+
+footer {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+}
+a:link {color:white;
+        }
+a:hover {color:white;
+        font-weight: bold}
