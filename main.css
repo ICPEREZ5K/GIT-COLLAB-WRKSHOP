@@ -1,3 +1,32 @@
+
+
+
+#Content1 {
+	background-color: #658C3D;
+	text-align: center;
+}
+
+
+#Content2 {
+	background-color: #658C3D;
+	text-align: center;
+}
+
+#Content3 {
+	background-color: #658C3D;
+	text-align: center;
+}
+
+
+article {
+	background-color: white;
+}
+
+
+h1 {
+	color: white;
+}
+=======
 html{
     margin: 0;
     padding: 0px;
@@ -32,3 +61,13 @@ p {
     display: inline-block;
     width: 50%;
 }
+
+footer {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+}
+a:link {color:white;
+        }
+a:hover {color:white;
+        font-weight: bold}
